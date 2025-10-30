@@ -1530,5 +1530,6 @@
 95.86.215.118
 98.124.243.32
 four.startperfectsolutions.com
-event .coachgreb .com
-iredelltx[.]com
+event.coachgreb .com
+iredelltx.com
+*.intermoutain.net
