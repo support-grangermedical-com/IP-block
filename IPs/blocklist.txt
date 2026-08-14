@@ -1529,10 +1529,7 @@
 95.80.175.176
 95.86.215.118
 98.124.243.32
-four.startperfectsolutions.com
-event.coachgreb .com
-iredelltx.com
-*.intermoutain.net
+158.94.211.92
 88.80.150.25
 85.239.240.32
 153.75.87.77
